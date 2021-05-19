@@ -9,7 +9,7 @@ Each folder is a game. The gamify workshops list below:
 This workshop stresses "the second way" of DevOps methodology, which creates a loop from Ops back to Dev.
 In the workshop, I'll use an absolute scenario to show how AI algorithm combined APP tracking technique help the product decision making.
 
-![DDDM](./make_a_better_business_decision_by_data\images\DDDM.png)
+![DDDM](./make_a_better_business_decision_by_data/images/DDDM.png)
 
 The source code includes:
 
